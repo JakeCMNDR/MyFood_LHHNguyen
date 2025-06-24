@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyFood</string>
+
+    <string name="food_name_sample">Tên món</string>
+    <string name="food_size_sample">Size M</string>
+    <string name="food_price_sample">Giá: 35.000đ</string>
+    <string name="desc_food_image">Ảnh món ăn</string>
+</resources>
